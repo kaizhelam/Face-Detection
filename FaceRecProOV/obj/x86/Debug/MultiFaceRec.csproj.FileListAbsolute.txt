@@ -1,0 +1,13 @@
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\lamka\Downloads\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
